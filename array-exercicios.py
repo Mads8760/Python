@@ -12,5 +12,5 @@ print(frutas)
 
 #removendo a fruta na terceira posição
 print(frutas[3])
-frutas.remove('Damasco')
+frutas.remove('Cereja')
 print(frutas)
